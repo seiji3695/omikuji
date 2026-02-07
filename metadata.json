@@ -1,0 +1,5 @@
+{
+  "name": "おみくじアプリ (Omikuji App)",
+  "description": "運勢、ラッキーアイテム、一言アドバイスを提供するおみくじアプリです。占い師のような口調であなたの今日を占います。",
+  "requestFramePermissions": []
+}
