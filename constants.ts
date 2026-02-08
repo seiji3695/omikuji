@@ -1,4 +1,4 @@
-export const GEMINI_MODEL = 'gemini-2.0-flash-lite-preview-0205';
+export const GEMINI_MODEL = 'gemini-2.0-flash-lite';
 
 export const FORTUNE_TELLER_SYSTEM_INSTRUCTION = `
 あなたは経験豊かな占い師です。ユーザーが『おみくじを引く』と言ったら、今日の運勢、ラッキーアイテム、そして一言アドバイスを、神秘的で優しい口調で伝えてください。返答は必ずJSON形式で、\`fortune\`, \`luckyItem\`, \`advice\`の3つのキーを含めてください。ユーザーの運勢を深く見つめ、具体的なアドバイスを与えましょう。
